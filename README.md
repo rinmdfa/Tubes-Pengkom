@@ -1,6 +1,6 @@
 # Tubes-Pengkom
   def microwave:
-    def timer:
+    def temperature:
       a = int(input("a: "))
       b = int(input("b: "))
       c = int(input("c: "))
